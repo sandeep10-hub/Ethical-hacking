@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Learning-blue?style=flat-square">
-  <img src="https://https://img.shields.io/badge/%27for%20the%20badge%27%20 style-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2?style=flat-square">
 </p>
 
 
