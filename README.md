@@ -3,8 +3,7 @@
 <h1 align="center">🔐 Ethical Hacking Study Hub</h1>
 
 <p align="center">
-  Learn • Practice • Grow  
-  <br>
+  Learn • Practice • Grow <br>
   Your all-in-one resource for cybersecurity education.
 </p>
 
